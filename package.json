@@ -1,0 +1,14 @@
+{
+  "name": "fuse-start",
+  "version": "1.0.0",
+  "description": "- Step 1 ```bash install node ``` - Step 2 ```bash npm init ``` - Step 3 ```bash npm i typescript ``` - Step 4 ```bash tsc --init ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
